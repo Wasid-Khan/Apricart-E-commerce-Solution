@@ -1,12 +1,6 @@
 # Apricart-E-commerce-Solution
 An e-commerce platform.
 
-Certainly! Here’s a detailed description for your GitHub repository:
-
----
-
-## Apricart: Comprehensive E-Commerce Management System
-
 ### Overview
 
 **Apricart** is a comprehensive e-commerce platform designed to manage products, shopping carts, orders, coupons, and warehouses efficiently. Built using Spring Boot, this project offers a robust backend solution for modern e-commerce applications, ensuring smooth operations and a seamless shopping experience.
