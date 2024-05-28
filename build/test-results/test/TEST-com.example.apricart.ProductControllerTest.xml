@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.apricart.ProductControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-27T10:11:32" hostname="DESKTOP-JIASJ3B" time="2.668">
+  <properties/>
+  <testcase name="testCreateProduct()" classname="com.example.apricart.ProductControllerTest" time="2.668"/>
+  <system-out><![CDATA[15:11:35.109 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+15:11:35.113 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+15:11:35.121 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 5 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
