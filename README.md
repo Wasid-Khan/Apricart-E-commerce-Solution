@@ -66,9 +66,5 @@ An e-commerce platform.
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project’s coding standards and includes appropriate tests.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Contact
-For any inquiries or support, please contact [your-email@example.com](wakhan.msis23seecs@seecs.edu.pk).
+For any inquiries or support, please contact my [email address here!](wakhan.msis23seecs@seecs.edu.pk).
